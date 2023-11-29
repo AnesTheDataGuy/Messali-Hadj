@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="freeCodeCamp Tribute Page" />
+    <title>Messali Hadj - Tribute Page</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>   
+  <body>
+    <main id="main">
+      <h1 id="title">Messali Hadj</h1>
+      <p>Messali Hadj: A Revolutionary Icon in Algerian History</p>
+      <figure id="img-div">
+        <img
+          id="image"
+          src="https://qph.cf2.quoracdn.net/main-qimg-a879755a3150d6951be009e9c4bdb212-lq"
+          alt="Black and white photograph of Messali Hadj"
+        />
+        <figcaption id="img-caption">
+          Messali Hadj (1898–1974), a central figure in the Algerian struggle for independence, founded the Étoile Nord-Africaine in 1926 and later established the Algerian People's Party in 1937. Despite facing imprisonment and exile, Hadj remained resolute in his fight against colonial oppression, leaving an indelible mark on Algerian history. His legacy as a symbol of unwavering commitment to national liberation continues to inspire generations. 
+        </figcaption>
+      </figure>
+      <section id="tribute-info">
+        <h3 id="timeline">The life of Messali Hadj:</h3>
+        <ul>
+          <li><strong>1898 (June 16)</strong> - Messali Hadj is born in Tizi Hibel, a village in French-occupied Algeria</li>
+          <li>
+            <strong>1914-1918</strong> - World War I impacts Algeria, contributing to the political and social awareness of individuals like Messali Hadj   
+          </li>
+          <li>
+            <strong>1920s-1930s</strong> - Active involvement in various labor and political movements sets the stage for Messali Hadj's later role in the struggle for Algerian independence
+          </li>
+          <li>
+            <strong>1926</strong> - Hadj establishes the Étoile Nord-Africaine (North African Star), a nationalist and anti-colonial organization
+          </li>
+          <li>
+            <strong>1937</strong> - Founding of the Algerian People's Party (Parti du Peuple Algérien, PPA) by Hadj, advocating for political and economic rights and independence
+          </li>
+          <li>
+            <strong>1945</strong> - The Sétif and Guelma massacre serves as a turning point in the Algerian nationalist movement, influencing Hadj's activism
+          </li>
+          <li>
+            <strong>1954-1962</strong> - Algeria engages in a fierce war of independence against French colonial forces. Hadj's earlier contributions are acknowledged, and he is arrested in 1956
+          </li>
+          <li>
+            <strong>1958</strong> - The Algerian War for Independence intensifies, with the Battle of Algiers being a notable event
+          </li>
+          <li>
+            <strong>1962 (July 3) </strong> - Algeria gains independence from France. Hadj's vision for an independent Algeria takes a different turn than the political direction pursued by the FLN
+          </li>
+          <li>
+            <strong>Post-Independence (1962 onward)</strong> - Despite his role in the struggle for independence, Hadj faces political marginalization in the newly established Algerian government. He becomes critical of the direction the country takes post-independence
+          </li>
+          <li>
+            <strong>1974 (June 3)</strong> - Messali Hadj passes away in Algiers, Algeria, leaving behind a complex legacy as a key figure in Algeria's fight for independence and an advocate for the rights of the Algerian people
+          </li>
+        </ul>
+        <blockquote
+          cite="https://www.marxists.org/archive/messali-hadj/bio/ben-bella.htm"/>
+          <p>
+            It is true that Messali was a man and, as such, fallible. It can be added that his errors were the measure of his grandeur. History will one day judge of this. But the truth is much more rich, more real than all this noise and din. It seized them in order to surpass them. It is the heart that should speak, and that should make all the rest remain silent
+          </p>
+          <cite> -- Ahmed Ben Bella, First President of Algeria </cite>
+        </blockquote>
+        <h3>
+          If you have time, you can learn more about the extraordinary life of Messali Hadj on his
+          <a
+            id="tribute-link"
+            href="https://en.wikipedia.org/wiki/Messali_Hadj"
+            target="_blank"
+          >Wikipedia entry</a>.
+        </h3>
+      </section>
+    </main>
+  </body>
+</html>
+
+
